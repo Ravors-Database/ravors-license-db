@@ -26,6 +26,20 @@
       "createdAt": "2026-04-01T09:56:14.178Z",
       "expiresAt": null,
       "note": "accses premium"
+    },
+    {
+      "token": "FIFF-HTCN",
+      "status": "active",
+      "plan": "lifetime",
+      "ownerName": "fiffhthc",
+      "telegramId": "1841408679",
+      "username": "fifhidetech",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-01T12:25:26.882Z",
+      "expiresAt": null,
+      "note": "accses premium"
     }
   ]
 }
