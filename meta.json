@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "maintenance": false,
+  "bindTelegramId": true,
+  "allowOnlyRegisteredIds": true,
+  "superOwners": [
+    "1267554581"
+  ],
+  "botOwners": {
+    "auto-order-ravors": "1689359217"
+  }
+}
