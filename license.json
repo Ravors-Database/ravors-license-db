@@ -14,20 +14,6 @@
       "expiresAt": null
     },
     {
-      "token": "FIFF-TEST",
-      "status": "active",
-      "plan": "lifetime",
-      "ownerName": "FIFFTEST",
-      "telegramId": "7661631649",
-      "username": "fiffxxyz",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-01T09:56:14.178Z",
-      "expiresAt": null,
-      "note": "accses premium"
-    },
-    {
       "token": "FIFF-HTCN",
       "status": "active",
       "plan": "lifetime",
