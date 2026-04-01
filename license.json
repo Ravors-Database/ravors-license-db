@@ -1,0 +1,17 @@
+{
+  "tokens": [
+    {
+      "token": "RAVORS-OWNER-001",
+      "status": "active",
+      "plan": "lifetime",
+      "ownerName": "FIFF",
+      "telegramId": "1267554581",
+      "username": "fifonemsg",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-01T00:00:00Z",
+      "expiresAt": null
+    }
+  ]
+}
