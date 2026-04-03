@@ -26,6 +26,20 @@
       "createdAt": "2026-04-02T08:09:29.760Z",
       "expiresAt": null,
       "note": "acsess full up"
+    },
+    {
+      "token": "MANSZY-NOKTEL",
+      "status": "active",
+      "plan": "3bulan",
+      "ownerName": "𝐌𝐀𝐍𝐒𝐙𝐘 𝐎𝐅𝐅𝐂𝐈𝐀𝐋 ( 𝐎𝐏𝐄𝐍 𝐏𝐀𝐑𝐓𝐍𝐄𝐑 𝐏𝐑𝐈𝐁/𝐕𝐈𝐏 )",
+      "telegramId": "8482288375",
+      "username": "MANSZYOFFCIALREAL",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-03T08:12:15.154Z",
+      "expiresAt": null,
+      "note": "access reseller"
     }
   ]
 }
