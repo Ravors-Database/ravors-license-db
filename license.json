@@ -40,6 +40,20 @@
       "createdAt": "2026-04-03T08:12:15.154Z",
       "expiresAt": null,
       "note": "access reseller"
+    },
+    {
+      "token": "PANJI-NOKTEL",
+      "status": "active",
+      "plan": "1bulan",
+      "ownerName": "⏤͟͞Xv7 BANG PANJI",
+      "telegramId": "1842273254",
+      "username": "PANJISTOREREAL",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-03T08:15:31.636Z",
+      "expiresAt": null,
+      "note": "access full up"
     }
   ]
 }
