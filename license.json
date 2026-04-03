@@ -14,20 +14,6 @@
       "expiresAt": null
     },
     {
-      "token": "MANZ-NOKTEL",
-      "status": "active",
-      "plan": "lifetime",
-      "ownerName": "𝐌𝐀𝐍𝐒𝐙𝐘 𝐎𝐅𝐅𝐂𝐈𝐀𝐋 ( 𝐎𝐏𝐄𝐍 𝐏𝐀𝐑𝐓𝐍𝐄𝐑 𝐏𝐑𝐈𝐁/𝐕𝐈𝐏 )",
-      "telegramId": "8482288375",
-      "username": "MANSZYOFFCIALREAL",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-01T12:25:26.882Z",
-      "expiresAt": null,
-      "note": "accses premium"
-    },
-    {
       "token": "VEXX-NOKTEL",
       "status": "active",
       "plan": "3bulan",
