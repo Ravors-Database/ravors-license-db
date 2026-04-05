@@ -96,6 +96,20 @@
       "createdAt": "2026-04-05T00:14:13.884Z",
       "expiresAt": null,
       "note": "access test"
+    },
+    {
+      "token": "CHICO-NOKTEL",
+      "status": "active",
+      "plan": "1bulan",
+      "ownerName": "Chico Lachowski",
+      "telegramId": "8543539457",
+      "username": null,
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-05T01:13:53.088Z",
+      "expiresAt": null,
+      "note": "acsess full up"
     }
   ]
 }
