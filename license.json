@@ -82,6 +82,20 @@
       "createdAt": "2026-04-04T12:36:17.615Z",
       "expiresAt": null,
       "note": "access full up"
+    },
+    {
+      "token": "XZY-NOKTEL",
+      "status": "active",
+      "plan": "1bulan",
+      "ownerName": "𝐗𝟒–𝐗𝐳𝐲𝐲𝐄𝐦𝐩𝐞𝐫𝐨𝐫☭ 𝐓𝟓 [𝐂𝐄𝐎]",
+      "telegramId": "1952275683",
+      "username": "Yxzzjr",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-05T00:14:13.884Z",
+      "expiresAt": null,
+      "note": "access test"
     }
   ]
 }
