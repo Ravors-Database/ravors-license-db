@@ -124,6 +124,20 @@
       "createdAt": "2026-04-05T11:30:36.467Z",
       "expiresAt": null,
       "note": "acsess full up"
+    },
+    {
+      "token": "YUDZ-NOKTEL",
+      "status": "active",
+      "plan": "1bulan",
+      "ownerName": "𝗬𝘂𝗱𝘇𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 || 𝐓𝟓",
+      "telegramId": "1115927716",
+      "username": "YudzOficial",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-07T11:40:52.789Z",
+      "expiresAt": null,
+      "note": "acsess full up"
     }
   ]
 }
