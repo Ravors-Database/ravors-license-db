@@ -138,6 +138,20 @@
       "createdAt": "2026-04-07T11:40:52.789Z",
       "expiresAt": null,
       "note": "acsess full up"
+    },
+    {
+      "token": "PARADOX-NOKTEL",
+      "status": "active",
+      "plan": "3bulan",
+      "ownerName": "⌁ 「 𝑿𝟒𝑵𝑫𝑶𝟏𝟐 - 𝐏ΛЯΛĐØ𝐗 』 ⌁",
+      "telegramId": "1476395287",
+      "username": "XandorAcc",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-07T11:42:31.089Z",
+      "expiresAt": null,
+      "note": "acsess reseller"
     }
   ]
 }
