@@ -152,6 +152,20 @@
       "createdAt": "2026-04-07T11:42:31.089Z",
       "expiresAt": null,
       "note": "acsess reseller"
+    },
+    {
+      "token": "PIANTECH-NOKTEL",
+      "status": "active",
+      "plan": "1minggu",
+      "ownerName": "Tuan Muda Piantech",
+      "telegramId": "6190974729",
+      "username": "Piantechh",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-08T10:00:35.556Z",
+      "expiresAt": null,
+      "note": "acsess add"
     }
   ]
 }
