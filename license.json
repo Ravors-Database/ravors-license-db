@@ -166,6 +166,20 @@
       "createdAt": "2026-04-08T10:00:35.556Z",
       "expiresAt": null,
       "note": "acsess add"
+    },
+    {
+      "token": "UCUP-NOKTEL",
+      "status": "active",
+      "plan": "3bulan",
+      "ownerName": "y ian",
+      "telegramId": "489194275",
+      "username": "omakp",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-10T00:55:23.920Z",
+      "expiresAt": null,
+      "note": "acsess reseller"
     }
   ]
 }
