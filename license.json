@@ -28,20 +28,6 @@
       "note": "access test"
     },
     {
-      "token": "HAMZ-NOKTEL",
-      "status": "active",
-      "plan": "1bulan",
-      "ownerName": "𝐇𝐚𝐦𝐳𝐳 𝐣𝐞𝐦𝐛𝐨𝐭 𝐓𝟓",
-      "telegramId": "2123421892",
-      "username": "FlavourHanz",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-05T11:30:36.467Z",
-      "expiresAt": null,
-      "note": "acsess full up"
-    },
-    {
       "token": "YUDZ-NOKTEL",
       "status": "active",
       "plan": "3bulan",
