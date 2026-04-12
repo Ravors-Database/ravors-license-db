@@ -14,20 +14,6 @@
       "expiresAt": null
     },
     {
-      "token": "lEONARD-NOKTEL",
-      "status": "active",
-      "plan": "1bulan",
-      "ownerName": "leonàrd",
-      "telegramId": "1111807774",
-      "username": "someliend",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-04T12:36:17.615Z",
-      "expiresAt": null,
-      "note": "access full up"
-    },
-    {
       "token": "XZY-NOKTEL",
       "status": "active",
       "plan": "1bulan",
