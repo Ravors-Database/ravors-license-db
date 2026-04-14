@@ -96,6 +96,20 @@
       "createdAt": "2026-04-13T11:21:43.582Z",
       "expiresAt": null,
       "note": "acsess full up"
+    },
+    {
+      "token": "URFICE-NOKTEL",
+      "status": "active",
+      "plan": "3bulan",
+      "ownerName": "$urfice Bøys",
+      "telegramId": "1168816937",
+      "username": "dontbewithher",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-14T08:52:25.089Z",
+      "expiresAt": null,
+      "note": "acsess reseller"
     }
   ]
 }
