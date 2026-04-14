@@ -110,6 +110,20 @@
       "createdAt": "2026-04-14T08:52:25.089Z",
       "expiresAt": null,
       "note": "acsess reseller"
+    },
+    {
+      "token": "BILLIE-NOKTEL",
+      "status": "active",
+      "plan": "1bulan",
+      "ownerName": "Billie",
+      "telegramId": "8494644315",
+      "username": "BillieCrot",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-14T14:34:26.017Z",
+      "expiresAt": null,
+      "note": "acsess full up"
     }
   ]
 }
