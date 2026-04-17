@@ -124,6 +124,20 @@
       "createdAt": "2026-04-14T14:34:26.017Z",
       "expiresAt": null,
       "note": "acsess full up"
+    },
+    {
+      "token": "HAMZ-NOKTEL",
+      "status": "active",
+      "plan": "1bulan",
+      "ownerName": "hamz idgaf era 𝐓𝟓 [REHAT]",
+      "telegramId": "2123421892",
+      "username": "Flavourhamzx",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-17T07:55:09.376Z",
+      "expiresAt": null,
+      "note": "acsess full up"
     }
   ]
 }
