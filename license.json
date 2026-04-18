@@ -152,6 +152,20 @@
       "createdAt": "2026-04-18T08:18:17.608Z",
       "expiresAt": null,
       "note": "acsess full up"
+    },
+    {
+      "token": "DRANZ-NOKTEL",
+      "status": "active",
+      "plan": "1bulan",
+      "ownerName": "Dranz #valentinus",
+      "telegramId": "265648988",
+      "username": "DranzGoodBooy",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-18T22:27:01.340Z",
+      "expiresAt": null,
+      "note": "acsess full up"
     }
   ]
 }
