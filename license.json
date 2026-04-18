@@ -138,6 +138,20 @@
       "createdAt": "2026-04-17T07:55:09.376Z",
       "expiresAt": null,
       "note": "acsess full up"
+    },
+    {
+      "token": "SHISUI-NOKTEL",
+      "status": "active",
+      "plan": "1bulan",
+      "ownerName": "shisui",
+      "telegramId": "7564133535",
+      "username": "tshisui",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-18T08:18:17.608Z",
+      "expiresAt": null,
+      "note": "acsess full up"
     }
   ]
 }
