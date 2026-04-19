@@ -1,199 +1,22 @@
-{
-  "tokens": [
-    {
-      "token": "RAVORS-OWNER-001",
-      "status": "active",
-      "plan": "lifetime",
-      "ownerName": "FIFF",
-      "telegramId": "1267554581",
-      "username": "fifonemsg",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-01T00:00:00Z",
-      "expiresAt": null
-    },
-    {
-      "token": "XZY-NOKTEL",
-      "status": "active",
-      "plan": "1bulan",
-      "ownerName": "𝐗𝟒–𝐗𝐳𝐲𝐲𝐄𝐦𝐩𝐞𝐫𝐨𝐫☭ 𝐓𝟓 [𝐂𝐄𝐎]",
-      "telegramId": "1952275683",
-      "username": "Yxzzjr",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-05T00:14:13.884Z",
-      "expiresAt": null,
-      "note": "access test"
-    },
-    {
-      "token": "PARADOX-NOKTEL",
-      "status": "active",
-      "plan": "3bulan",
-      "ownerName": "⌁ 「 𝑿𝟒𝑵𝑫𝑶𝟏𝟐 - 𝐏ΛЯΛĐØ𝐗 』 ⌁",
-      "telegramId": "1476395287",
-      "username": "XandorAcc",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-07T11:42:31.089Z",
-      "expiresAt": null,
-      "note": "acsess reseller"
-    },
-    {
-      "token": "PIANTECH-NOKTEL",
-      "status": "active",
-      "plan": "1minggu",
-      "ownerName": "Tuan Muda Piantech",
-      "telegramId": "6190974729",
-      "username": "Piantechh",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-08T10:00:35.556Z",
-      "expiresAt": null,
-      "note": "acsess add"
-    },
-    {
-      "token": "UCUP-NOKTEL",
-      "status": "active",
-      "plan": "3bulan",
-      "ownerName": "y ian",
-      "telegramId": "489194275",
-      "username": "omakp",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-10T00:55:23.920Z",
-      "expiresAt": null,
-      "note": "acsess reseller"
-    },
-    {
-      "token": "DONZX-NOKTEL",
-      "status": "active",
-      "plan": "3bulan",
-      "ownerName": "Donzx Store",
-      "telegramId": "7852075335",
-      "username": "Donzx_kece",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-10T12:08:49.834Z",
-      "expiresAt": null,
-      "note": "acses reseller"
-    },
-    {
-      "token": "VEX-NOKTEL",
-      "status": "active",
-      "plan": "1bulan",
-      "ownerName": "𝗩𝗘𝗫 : 𝟵𝟬𝟵 ࿖ 𝗣𝗥𝗜𝗠𝗘 𝗛𝗨𝗡𝗧𝗘𝗥 OFFLINE √",
-      "telegramId": "1182247626",
-      "username": "top2bokep",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-13T11:21:43.582Z",
-      "expiresAt": null,
-      "note": "acsess full up"
-    },
-    {
-      "token": "URFICE-NOKTEL",
-      "status": "active",
-      "plan": "3bulan",
-      "ownerName": "$urfice Bøys",
-      "telegramId": "1168816937",
-      "username": "dontbewithher",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-14T08:52:25.089Z",
-      "expiresAt": null,
-      "note": "acsess reseller"
-    },
-    {
-      "token": "BILLIE-NOKTEL",
-      "status": "active",
-      "plan": "1bulan",
-      "ownerName": "Billie",
-      "telegramId": "8494644315",
-      "username": "BillieCrot",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-14T14:34:26.017Z",
-      "expiresAt": null,
-      "note": "acsess full up"
-    },
-    {
-      "token": "HAMZ-NOKTEL",
-      "status": "active",
-      "plan": "1bulan",
-      "ownerName": "hamz idgaf era 𝐓𝟓 [REHAT]",
-      "telegramId": "2123421892",
-      "username": "Flavourhamzx",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-17T07:55:09.376Z",
-      "expiresAt": null,
-      "note": "acsess full up"
-    },
-    {
-      "token": "SHISUI-NOKTEL",
-      "status": "active",
-      "plan": "1bulan",
-      "ownerName": "shisui",
-      "telegramId": "7564133535",
-      "username": "tshisui",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-18T08:18:17.608Z",
-      "expiresAt": null,
-      "note": "acsess full up"
-    },
-    {
-      "token": "DRANZ-NOKTEL",
-      "status": "active",
-      "plan": "1bulan",
-      "ownerName": "Dranz #valentinus",
-      "telegramId": "265648988",
-      "username": "DranzGoodBooy",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-18T22:27:01.340Z",
-      "expiresAt": null,
-      "note": "acsess full up"
-    },
-    {
-      "token": "DAMZ-NOKTEL",
-      "status": "active",
-      "plan": "1bulan",
-      "ownerName": "𝐃𝐀𝐌𝐙",
-      "telegramId": "5825929836",
-      "username": "ytimc",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-19T06:17:10.601Z",
-      "expiresAt": null,
-      "note": "acsess full up"
-    },
-    {
-      "token": "Matthèw-Noktel",
-      "status": "active",
-      "plan": "1bulan",
-      "ownerName": "Matthèw",
-      "telegramId": "1082651894",
-      "username": "ihpangeran",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-19T06:35:40.628Z",
-      "expiresAt": null,
-      "note": "acsess full up"
-    }
-  ]
-}
+
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║    🍆🍆🍆  DATABASE HANCUR DI KONTOLIN  🍆🍆🍆   ║
+║                                                    ║
+║                                                    ║
+║       ╭┳╮╭┳╮╭┳╮╭┳╮╭┳╮╭┳╮╭┳╮╭┳╮╭┳╮╭┳╮        ║
+║       ╰┻╯╰┻╯╰┻╯╰┻╯╰┻╯╰┻╯╰┻╯╰┻╯╰┻╯╰┻╯        ║
+║                                                    ║
+║          ██████╗  ██████╗ ██████╗ ██╗            ║
+║         ██╔═══██╗██╔══██╗██╔══██╗██║            ║
+║         ██║   ██║██████╔╝██████╔╝██║            ║
+║         ██║   ██║██╔══██╗██╔══██╗██║            ║
+║         ╚██████╔╝██████╔╝██████╔╝███████╗       ║
+║          ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝       ║
+║                                                    ║
+║       ╭┳╮╭┳╮╭┳╮╭┳╮╭┳╮╭┳╮╭┳╮╭┳╮╭┳╮╭┳╮        ║
+║       ╰┻╯╰┻╯╰┻╯╰┻╯╰┻╯╰┻╯╰┻╯╰┻╯╰┻╯╰┻╯        ║
+║                                                    ║
+║         🍆💦  HANCUR KENA KONTOL  💦🍆          ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
