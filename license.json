@@ -166,6 +166,20 @@
       "createdAt": "2026-04-18T22:27:01.340Z",
       "expiresAt": null,
       "note": "acsess full up"
+    },
+    {
+      "token": "DAMZ-NOKTEL",
+      "status": "active",
+      "plan": "1bulan",
+      "ownerName": "𝐃𝐀𝐌𝐙",
+      "telegramId": "5825929836",
+      "username": "ytimc",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-19T06:17:10.601Z",
+      "expiresAt": null,
+      "note": "acsess full up"
     }
   ]
 }
