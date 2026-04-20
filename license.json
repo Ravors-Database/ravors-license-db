@@ -1,16 +1,30 @@
-
+{
+  "token": "RAVORS-OWNER-001",
+  "status": "active",
+  "plan": "12bulan",
+  "ownerName": "⏤͟͞Rαvorss̄ ⺓ 𝐓𝟓",
+  "telegramId": "1689359217",
+  "username": "myvianxz",
+  "botAccess": [
+    "auto-order-ravors"
+  ],
+  "createdAt": "2026-04-20T10:43:07.224Z",
+  "expiresAt": null,
+  "note": "acsess Owner",
+  "tokens": [
     {
-      "token": "RAVORS-OWNER-001",
+      "token": "AXZZ-NOKTEL",
       "status": "active",
-      "plan": "12bulan",
-      "ownerName": "⏤͟͞Rαvorss̄ ⺓ 𝐓𝟓",
-      "telegramId": "1689359217",
-      "username": "myvianxz",
+      "plan": "1bulan",
+      "ownerName": "—_𝐗𝐓𝐑𝐋〖ᴷⁱⁿᴳ𝙰𝚡𝚣𝚉𝚣𝙾𝚏𝚏𝚌",
+      "telegramId": "8307096122",
+      "username": "AxzZzOffc",
       "botAccess": [
         "auto-order-ravors"
       ],
-      "createdAt": "2026-04-20T10:43:07.224Z",
+      "createdAt": "2026-04-20T10:47:37.410Z",
       "expiresAt": null,
-      "note": "acsess Owner"
+      "note": "acsess full up"
     }
-  
+  ]
+}
