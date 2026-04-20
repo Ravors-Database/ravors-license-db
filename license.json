@@ -90,6 +90,20 @@
       "id": "1082651894",
       "paket": "1bulan",
       "status": "active"
+    },
+    {
+      "token": "RAVORS-OWNER-001",
+      "status": "active",
+      "plan": "12bulan",
+      "ownerName": "⏤͟͞Rαvorss̄ ⺓ 𝐓𝟓",
+      "telegramId": "1689359217",
+      "username": "myvianxz",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-20T10:43:07.224Z",
+      "expiresAt": null,
+      "note": "acsess Owner"
     }
   ]
 }
