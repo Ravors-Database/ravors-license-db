@@ -39,6 +39,20 @@
       "createdAt": "2026-04-20T13:01:20.880Z",
       "expiresAt": null,
       "note": "acsess full up"
+    },
+    {
+      "token": "RAPA-NOKTEL",
+      "status": "active",
+      "plan": "3bulan",
+      "ownerName": "𝗿𝗮𝗽𝗮𝗮𝗮",
+      "telegramId": "1168816937",
+      "username": "cogiIa",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-20T13:29:09.504Z",
+      "expiresAt": null,
+      "note": "acsess reseller"
     }
   ]
 }
