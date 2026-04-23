@@ -53,6 +53,20 @@
       "createdAt": "2026-04-20T13:29:09.504Z",
       "expiresAt": null,
       "note": "acsess reseller"
+    },
+    {
+      "token": "DONZX-NOKTEL",
+      "status": "active",
+      "plan": "3bulan",
+      "ownerName": "Donzx Store",
+      "telegramId": "7852075335",
+      "username": "Donzx_kece",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-23T07:29:22.010Z",
+      "expiresAt": null,
+      "note": "acsess reseller"
     }
   ]
 }
