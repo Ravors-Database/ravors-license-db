@@ -67,6 +67,20 @@
       "createdAt": "2026-04-23T07:29:22.010Z",
       "expiresAt": null,
       "note": "acsess reseller"
+    },
+    {
+      "token": "ZETA-NOKTEL",
+      "status": "active",
+      "plan": "1bulan",
+      "ownerName": "XxX ZETA",
+      "telegramId": "1802830218",
+      "username": "settdahhh",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-23T22:53:16.184Z",
+      "expiresAt": null,
+      "note": "acsess full up"
     }
   ]
 }
