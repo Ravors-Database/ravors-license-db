@@ -67,6 +67,20 @@
       "createdAt": "2026-04-23T07:29:22.010Z",
       "expiresAt": null,
       "note": "acsess reseller"
+    },
+    {
+      "token": "XYUU-NOKTEL",
+      "status": "active",
+      "plan": "1bulan",
+      "ownerName": "xyuu demigod",
+      "telegramId": "1524258154",
+      "username": "y4tiiem",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-24T05:40:06.071Z",
+      "expiresAt": null,
+      "note": "acsess full up"
     }
   ]
 }
