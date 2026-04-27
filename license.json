@@ -95,6 +95,20 @@
       "createdAt": "2026-04-27T22:25:54.792Z",
       "expiresAt": null,
       "note": "acsess reseller"
+    },
+    {
+      "token": "FALZ-NOKTEL",
+      "status": "active",
+      "plan": "3bulan",
+      "ownerName": "⏤͟͞𝗖𝗟𝗧 || 𝗙𝗔𝗟𝗭𝗭 [𝗖𝗘𝗢]",
+      "telegramId": "1134359984",
+      "username": "AkunkeduaFalzz",
+      "botAccess": [
+        "auto-order-ravors"
+      ],
+      "createdAt": "2026-04-27T23:17:19.053Z",
+      "expiresAt": null,
+      "note": "acsess reseller"
     }
   ]
 }
