@@ -83,20 +83,6 @@
       "note": "acsess full up"
     },
     {
-      "token": "корона-Noktel",
-      "status": "active",
-      "plan": "3bulan",
-      "ownerName": "корона",
-      "telegramId": "1700850204",
-      "username": "realcrownn",
-      "botAccess": [
-        "auto-order-ravors"
-      ],
-      "createdAt": "2026-04-27T22:25:54.792Z",
-      "expiresAt": null,
-      "note": "acsess reseller"
-    },
-    {
       "token": "FALZ-NOKTEL",
       "status": "active",
       "plan": "3bulan",
